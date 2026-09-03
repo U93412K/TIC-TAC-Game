@@ -4,7 +4,7 @@ A simple and interactive **Tic-Tac-Toe game** built using **HTML, CSS, and JavaS
 
 ## 🚀 Live Demo
 
-**[Play Tic-Tac-Toe](https://github.com/U93412K/TIC-TAC-Game/tree/main)**
+**[Tic-Tac-Toe](https://github.com/U93412K/TIC-TAC-Game/tree/main)**
 
 ## 🛠️ Technologies Used
 
